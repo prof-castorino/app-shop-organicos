@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Shop organico</string>
+    <string name="btnNext">Continuar</string>
+
+    <string name="txtInfo">Preencha seus dados.</string>
+    <string name="validName">Preencha o Nome</string>
+    <string name="txtName">Nome</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="validEmail">Preencha o E-mail</string>
+    <string name="txtPhone">Celular</string>
+    <string name="validPhone">Preencha o Celular</string>
+    <string name="txtPostalAddress">CEP</string>
+    <string name="validPostAddress">Preencha o CEP</string>
+
+    <string name="txtSetOrganicProduct">Escolha seu produtos</string>
+    <string name="validSetProduct">Escolha pelo menos um produto</string>
+    <string name="txtProdName01">Morango (Unidade 250g)</string>
+    <string name="txtProdName02">Abacaxi (Unidade 900g)</string>
+    <string name="txtProdName03">Melancia Amarela (Unidade 2,5kg)</string>
+
+    <string name="txtProdDesc01">Vendido em caixa</string>
+    <string name="txtProdDesc02">Vendido por unidade</string>
+
+    <string name="txtProdPrice01">R$ 5.00</string>
+    <string name="txtProdPrice02">R$ 5.00</string>
+    <string name="txtProdPrice03">R$ 22,48</string>
+    <string name="txtQtd">Qtd</string>
+    <string name="txtQtdAuto">0</string>
+    <string name="txtStratum">Pedido</string>
+
+</resources>

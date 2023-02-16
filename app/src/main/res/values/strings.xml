@@ -12,8 +12,8 @@
     <string name="txtPostalAddress">CEP</string>
     <string name="validPostAddress">Preencha o CEP</string>
 
-    <string name="txtSetOrganicProduct">Escolha seu produtos</string>
-    <string name="validSetProduct">Escolha pelo menos um produto</string>
+    <string name="txtSetOrganicProduct">Escolha seu produtos.</string>
+    <string name="validSetProduct">Escolha pelo menos um produto.</string>
     <string name="txtProdName01">Morango (Unidade 250g)</string>
     <string name="txtProdName02">Abacaxi (Unidade 900g)</string>
     <string name="txtProdName03">Melancia Amarela (Unidade 2,5kg)</string>
@@ -22,10 +22,13 @@
     <string name="txtProdDesc02">Vendido por unidade</string>
 
     <string name="txtProdPrice01">R$ 5.00</string>
-    <string name="txtProdPrice02">R$ 5.00</string>
+    <string name="txtProdPrice02">R$ 7.00</string>
     <string name="txtProdPrice03">R$ 22,48</string>
     <string name="txtQtd">Qtd</string>
     <string name="txtQtdAuto">0</string>
     <string name="txtStratum">Pedido</string>
+    <string name="total">Total</string>
+    <string name="sub_total_r">R$</string>
+    <string name="r">R$</string>
 
 </resources>

@@ -27,8 +27,8 @@
     <string name="txtQtd">Qtd</string>
     <string name="txtQtdAuto">0</string>
     <string name="txtStratum">Pedido</string>
-    <string name="total">Total</string>
-    <string name="sub_total_r">R$</string>
-    <string name="r">R$</string>
+    <string name="total">Total R$</string>
+    <string name="sub_total_r">Parcial R$</string>
+    <string name="r">Unidade R$</string>
 
 </resources>
